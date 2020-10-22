@@ -1,0 +1,18 @@
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.deps.json
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.pdb
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.pdb
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.deps.json
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\bin\Debug\netstandard2.0\LogicaTrucoVersionMaxi.pdb
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.AssemblyInfoInputs.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.AssemblyInfo.cs
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\LogicaTrucoVersionMaxi\obj\Debug\netstandard2.0\LogicaTrucoVersionMaxi.pdb

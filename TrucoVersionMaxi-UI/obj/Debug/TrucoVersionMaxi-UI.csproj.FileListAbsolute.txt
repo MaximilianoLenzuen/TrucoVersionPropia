@@ -1,0 +1,26 @@
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csprojAssemblyReference.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi_UI.Form1.resources
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi_UI.Properties.Resources.resources
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.exe.config
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.exe
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.pdb
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.exe
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.pdb
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\LogicaTrucoVersionMaxi.pdb
+C:\Users\Maxi\source\repos\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.exe.config
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.exe
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\TrucoVersionMaxi-UI.pdb
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\LogicaTrucoVersionMaxi.dll
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\bin\Debug\LogicaTrucoVersionMaxi.pdb
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csprojAssemblyReference.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi_UI.Form1.resources
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi_UI.Properties.Resources.resources
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.GenerateResource.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.csproj.CopyComplete
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.exe
+C:\Users\Maxi Lenzuen\Documents\Maxi\MAXIDISCOSOLIDO\TrucoVersionMaxi-UI\TrucoVersionMaxi-UI\obj\Debug\TrucoVersionMaxi-UI.pdb

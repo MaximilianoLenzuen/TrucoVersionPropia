@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ONgvmsqcbzZe514v7lXwXeB75im4Q3jvR91fjvIv6G/XkmaJgx3K6Aj8zmdmt3r3bhQXFHLEvYITb72elKu9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxi Lenzuen\\Documents\\Maxi\\MAXIDISCOSOLIDO\\TrucoVersionMaxi-UI\\LogicaTrucoVersionMaxi\\LogicaTrucoVersionMaxi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxi Lenzuen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Maxi Lenzuen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
